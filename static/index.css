@@ -1,0 +1,12 @@
+        .container-1 {
+            background: url(
+'https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png');
+            width: 200px;
+            height: 250px;
+            background-repeat: no-repeat;
+            background-size: contain;
+            border: 0.25rem solid black;
+            margin-left: 10%;
+            margin-top: 5%;
+            margin-right: 10%;
+        }
